@@ -1,0 +1,27 @@
+body {
+    background-color: #121212;
+    color: #f57c00;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1,
+h2 {
+    color: #ff9800;
+}
+
+.summary,
+.charts,
+.review {
+    margin: 20px 0;
+    padding: 15px;
+    background: #1e1e1e;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(245, 124, 0, 0.5);
+}
